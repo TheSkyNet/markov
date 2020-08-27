@@ -12,10 +12,7 @@
   "autoload": {
     "psr-4": {
       "TheSkyNet\\Markov\\": "./src"
-    },
-    "files": [
-      "./test/dictionary/Dictionary.php"
-    ]
+    }
   },
   "require": {
   }
