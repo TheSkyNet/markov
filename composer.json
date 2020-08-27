@@ -1,0 +1,22 @@
+{
+  "name": "theskynet/markov",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "kev",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "TheSkyNet\\Markov\\": "./src"
+    },
+    "files": [
+      "./test/dictionary/Dictionary.php"
+    ]
+  },
+  "require": {
+  }
+}
