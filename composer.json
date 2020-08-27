@@ -1,7 +1,7 @@
 {
   "name": "theskynet/markov",
   "description": "text baced markov",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "AGPL-3.0-or-later",
   "version": "0.0.1",
   "authors": [
