@@ -1,12 +1,13 @@
 {
   "name": "theskynet/markov",
-  "description": "description",
+  "description": "text baced markov",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "AGPL-3.0-or-later",
+  "version": "0.0.1",
   "authors": [
     {
       "name": "kev",
-      "email": "email@example.com"
+      "email": "kev@kevs.biz"
     }
   ],
   "autoload": {
